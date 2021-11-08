@@ -1,1 +1,2 @@
 # Ngmai-manager
+git init
